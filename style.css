@@ -7,7 +7,6 @@
 body {
   font-family: "Cairo", sans-serif;
   background: linear-gradient(135deg, #f0f4f9, #dce3eb);
-  min-height: 100vh;
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -130,5 +129,6 @@ body {
   }
 
 }
+
 
 
