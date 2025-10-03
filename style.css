@@ -28,6 +28,7 @@ body {
   gap: 8px;
   margin-bottom: 20px;
   align-items: center;
+  flex-wrap:wrap;
 }
 
 .head input {
@@ -123,3 +124,4 @@ body {
   }
 
 }
+
